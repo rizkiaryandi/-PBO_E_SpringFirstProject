@@ -7,9 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Latihan1Application {
 
 	public static void main(String[] args) {
-//		SpringApplication.run(Latihan1Application.class, args);
-
-		System.out.println("Halo UIN");
+		SpringApplication.run(Latihan1Application.class, args);
 	}
 
 }
